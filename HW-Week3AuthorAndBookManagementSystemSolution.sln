@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33530.505
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HW-Week3-AB_ManagementSystem", "HW-Week3-AB_ManagementSystem\HW-Week3-AB_ManagementSystem.csproj", "{36B368D8-F228-4473-80AC-C7C0689BB6C5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{36B368D8-F228-4473-80AC-C7C0689BB6C5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{36B368D8-F228-4473-80AC-C7C0689BB6C5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{36B368D8-F228-4473-80AC-C7C0689BB6C5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{36B368D8-F228-4473-80AC-C7C0689BB6C5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F1FBD1DE-696C-4675-8B9C-D26C86A0D57D}
+	EndGlobalSection
+EndGlobal
